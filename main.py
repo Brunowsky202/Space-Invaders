@@ -1,6 +1,9 @@
 # importing pygame
 import pygame
 
+# importing random
+import random
+
 # initializate pygame
 pygame.init()
 
@@ -88,3 +91,4 @@ while running == True:
 
     pygame.display.flip()
 pygame.quit()
+
